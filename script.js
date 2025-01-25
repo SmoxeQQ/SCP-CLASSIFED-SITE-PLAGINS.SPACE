@@ -7,7 +7,7 @@ const W = canvas.width = 600;
 const H = canvas.height = 300;
 
 //Number of circles
-const circleNbr = 100;
+const circleNbr = 10;
 
 // Gradient
 const bgColor1 = 'rgba(153, 83, 85, 1)';
