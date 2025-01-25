@@ -67,3 +67,8 @@ function draw() {
   }
 }
 setInterval(draw, 30);
+
+
+function openLink() {
+            window.open('https://www.example.com', '_blank'); // Замените ссылку на нужную вам
+}
